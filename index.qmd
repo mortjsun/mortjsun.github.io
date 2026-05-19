@@ -1,8 +1,8 @@
 ---
-title: "mortjsun.github.io"
+title: "Fylkeslege Morten Juul Sundnes sine hjemmesider"
 ---
 
-This is a Quarto website.
+Denne er laget med Quarto. 
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 

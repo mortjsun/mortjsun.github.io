@@ -1,8 +1,8 @@
 ---
-title: "About"
+title: "Om meg"
 ---
 
-About this site
+På denne siden legger jeg ut informasjon og lenker til informasjon som jeg tenker kan være nyttig for både medarbeidere og ledere i helse- og omsorgstjenesten.
 
 ```{r}
 1 + 1
